@@ -1,0 +1,25 @@
+{
+  "name": "gulp-custom-props",
+  "version": "0.1.0",
+  "description": "The gulp task for the custom-props CSS polyfill",
+  "author": {
+    "name": "Matias Niemelä",
+    "email": "matias@yearofmoo.com",
+    "url": "http://www.yearofmoo.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/yearofmoo/gulp-custom-props/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "custom-props": "^0.1.0",
+    "gulp-util": "^3.0.4",
+    "object-assign": "^2.0.0",
+    "through2": "^0.6.5"
+  }
+}
