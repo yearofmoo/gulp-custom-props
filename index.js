@@ -2,7 +2,7 @@
 var gutil = require('gulp-util');
 var through = require('through2');
 var assign = require('object-assign');
-var customProps = require('./custom-props.js');
+var customProps = require('custom-props');
 
 module.exports = function (opts) {
   return through.obj(function (file, enc, cb) {
