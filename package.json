@@ -1,6 +1,6 @@
 {
   "name": "gulp-custom-props",
-  "version": "0.1.0",
+  "version": "0.1.01",
   "description": "The gulp task for the custom-props CSS polyfill",
   "author": {
     "name": "Matias Niemelä",
